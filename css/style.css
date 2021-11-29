@@ -37,6 +37,9 @@ a:hover {
     color: dodgerblue;
 }
 
+.product, .price, .contact, {
+    padding: 100px;
+}
 main {
     margin-top: 78px;
 }
